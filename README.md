@@ -18,4 +18,4 @@ Multiple testing methods (parametric & non-parametric)
 Effect size calculations
 Bonferroni correction for multiple comparisons
 
-![simple-plot](Images/simple--plot.png)
+![simple-plot](main/advanced_spotify_analysis.png)
